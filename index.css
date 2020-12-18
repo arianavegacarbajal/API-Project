@@ -4,7 +4,7 @@ button {
     margin-left: 10%;
     margin-top: 10%;
     border-radius: 10px;
-    background-color: #9370DB;
+    background-color: #1E90FF;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
 }
@@ -14,8 +14,13 @@ body {
 }
 
 p{
-    color: #9370DB;
-    font-size: 500%;
+    color: #1E90FF;
+    font-size: 200%;
+    display: flex;
+    justify-content: center;
+}
+
+#image {
     display: flex;
     justify-content: center;
 }
